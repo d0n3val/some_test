@@ -2,7 +2,7 @@
 
 This is a dummy project for testing
 
-## Installation
+## Installation - hello!
 
 TODO: Describe the installation process
 
