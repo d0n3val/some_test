@@ -1,4 +1,4 @@
-# Project Name
+# Project Name :calendula
 
 This is a dummy project for testing
 
