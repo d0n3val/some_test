@@ -1,4 +1,4 @@
-# Project Name
+# Project Name: super awesome
 
 This is a dummy project for testing
 
